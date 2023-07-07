@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 
 
-<h1>Merhaba GitHub sayfama Hoş Geldiniz.</h1>
+<h1>Merhaba GitHub sayfama Hoş Geldiniz 👋</h1>
 <p>Yeni başladığım bu yazılım yolculuğumda C#, Java, JavaScript dillerinde çalışmalarım mevcut.</p>
 <p>Aşağıya linkedin profilimden bana ulaşabilirsiniz.</p>
 <a href="https://www.linkedin.com/in/myk1988/" target="_blank" title="MYK">Profilime Gider</a>
