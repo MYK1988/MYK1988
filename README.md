@@ -5,7 +5,7 @@
   JavaScript <br> 
   dillerinde çalışmalarım mevcut.</p>
   <p>Aşağıya linkedin profilimden bana ulaşabilirsiniz.</p>
-<a href="https://www.linkedin.com/in/myk1988/" target="_blank" title="MYK">Profilime Gider</a>
+<a href="https://www.linkedin.com/in/myk1988/" title="MYK">Profilime Gider</a>
 
 <!--
 **MYK1988/MYK1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
