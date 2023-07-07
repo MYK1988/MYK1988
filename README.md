@@ -1,9 +1,7 @@
 <h1>Merhaba GitHub sayfama Hoş Geldiniz 👋</h1>
-<p>Yeni başladığım bu yazılım yolculuğumda <br>
-  C# <br>
-  Java <br> 
-  JavaScript <br> 
-  dillerinde çalışmalarım mevcut.</p>
+<p>
+  In this software journey that I have just started, I have works in Java, Python, C# and JavaScript.
+</p>
 <a href="https://www.linkedin.com/in/myk1988/" title="MYK">you can reach me here</a>
 
 <!--
