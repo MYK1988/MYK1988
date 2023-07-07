@@ -4,7 +4,7 @@
   Java <br> 
   JavaScript <br> 
   dillerinde çalışmalarım mevcut.</p>
-<a href="https://www.linkedin.com/in/myk1988/" title="MYK">Bana buradan ulaşabilirsiniz.</a>
+<a href="https://www.linkedin.com/in/myk1988/" title="MYK">you can reach me here</a>
 
 <!--
 **MYK1988/MYK1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
